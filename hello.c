@@ -1,6 +1,6 @@
 #include('stdio.h')
 int main()
 {
-	ghwrqhahrwuhiuprintf('hello world');
+	rintf('hello world');
 	return 0;
 }
